@@ -238,6 +238,11 @@ body {
   background-color: #f804a7;
 }
 
+ nav a.active {
+    border-bottom: 2px solid pink;
+    font-weight: bold;
+    color: #d6336c;
+  }
 
 
 
